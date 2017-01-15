@@ -11,7 +11,7 @@ keywords: "Hexo, NexT"
 
 language: zh-Hans
 
-title: 秦川的博客Chuan Qin's blog
+title: 秦川的博客
 subtitle: 记录学习的技能和遇到的问题
 
 theme : next
@@ -355,9 +355,9 @@ facebook_comments_plugin:
 # Show number of visitors to each article.
 # You can visit https://leancloud.cn get AppID and AppKey.
 leancloud_visitors:
-  enable: true
-  app_id: VOt8CIwLV7S8XmcY4NJIPVEe-gzGzoHsz#<app_id>
-  app_key: xf6EdgA9iwTN7ioLjX4xtcRa#<app_key>
+  enable: false
+  app_id: VOt8CIwLV7S8XmcY4NJIPVEe-gzGzoHsz
+  app_key: xf6EdgA9iwTN7ioLjX4xtcRa
 
 # Show PV/UV of the website/page with busuanzi.
 # Get more information on http://ibruce.info/2015/04/04/busuanzi/
